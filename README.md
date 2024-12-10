@@ -1,2 +1,3 @@
 # OmniVerseBC
-Wanted to learn rust.... So I created a blockchain :)
+
+New scalable sustainable and secure/anonymous blockchain
